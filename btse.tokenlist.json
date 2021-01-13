@@ -1,0 +1,202 @@
+{
+  "name": "BTSE Token List",
+  "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/btse-logo.png",
+  "keywords": [
+    "btse",
+    "defi"
+  ],
+  "tags": {
+    "btse": {
+      "name": "BTSE Token",
+      "description": "BTSE exchange token"
+    },
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "wrapped": {
+      "name": "Wrapped Token",
+      "description": "Tokens backed one to one with the underlying asset"
+    }
+  },
+  "timestamp": "2021-01-12T05:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
+      "chainId": 1,
+      "decimals": 8,
+      "name": "BTSE Token",
+      "symbol": "BTSE",
+      "tags": [
+        "btse"
+      ]
+    },
+    {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1,
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 1,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Dai",
+      "symbol": "DAI",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Paxos Standard",
+      "symbol": "PAX",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0x4922a015c4407f87432b179bb209e125432e4a2a",
+      "chainId": 1,
+      "decimals": 6,
+      "name": "Tether Gold",
+      "symbol": "XAUT",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+      "chainId": 1,
+      "decimals": 6,
+      "name": "BiLira",
+      "symbol": "TRYB",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0x420412e765bfa6d85aaac94b4f7b708c89be2e2b",
+      "chainId": 1,
+      "decimals": 4,
+      "name": "Brazilian Digital Token",
+      "symbol": "BRZ",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0x465e07d6028830124be2e4aa551fbe12805db0f5",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Wrapped Monero",
+      "symbol": "WXMR",
+      "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/WXMR.png",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Compound",
+      "symbol": "COMP"
+    },
+    {
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Curve DAO Token",
+      "symbol": "CRV"
+    },
+    {
+      "address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+      "chainId": 1,
+      "decimals": 6,
+      "name": "Ferrum Network",
+      "symbol": "FRM"
+    },
+    {
+      "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Hxro",
+      "symbol": "HXRO"
+    },
+    {
+      "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "LEO Token",
+      "symbol": "LEO"
+    },
+    {
+      "address": "0x38a2fdc11f526ddd5a607c1f251c065f40fbf2f7",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "PhoenixDAO",
+      "symbol": "PHNX"
+    },
+    {
+      "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Spice",
+      "symbol": "SFI",
+      "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/SFI.png"
+    },
+    {
+      "address": "0xb8baa0e4287890a5f79863ab62b7f175cecbd433",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Swerve",
+      "symbol": "SWRV"
+    },
+    {
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Uniswap",
+      "symbol": "UNI"
+    },
+    {
+      "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "xDAI Stake",
+      "symbol": "STAKE"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
