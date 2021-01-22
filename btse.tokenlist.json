@@ -1,6 +1,6 @@
 {
   "name": "BTSE Token List",
-  "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/btse-logo.png",
+  "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/btse-logo.png?20210122",
   "keywords": [
     "btse",
     "defi"
@@ -197,6 +197,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
