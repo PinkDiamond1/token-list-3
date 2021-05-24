@@ -19,7 +19,7 @@
       "description": "Tokens backed one to one with the underlying asset"
     }
   },
-  "timestamp": "2021-01-12T05:00:00+00:00",
+  "timestamp": "2021-05-21T00:00:00+00:00",
   "tokens": [
     {
       "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
@@ -123,6 +123,73 @@
       ]
     },
     {
+      "address": "0x36782efc0972FD69C5413DA7e2D8004Cd3c4b113",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Wrapped US Dollar",
+      "symbol": "WUSD",
+      "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/WUSD.png",
+      "tags": [
+        "stablecoin",
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xeB3d28eceE4F836C4838bAdB39d6DBB5e9703ec1",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Wrapped Euro",
+      "symbol": "WEUR",
+      "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/WEUR.png",
+      "tags": [
+        "stablecoin",
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xFA0288fbD1dE87205C287aB86D210B0738476af4",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Wrapped Pounds Sterling",
+      "symbol": "WGBP",
+      "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/WGBP.png",
+      "tags": [
+        "stablecoin",
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x5ABBa0Fa3630d389c7059DB684b7328d6596397a",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Wrapped Hong Kong Dollar",
+      "symbol": "WHKD",
+      "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/WHKD.png",
+      "tags": [
+        "stablecoin",
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x2657455b925aCC98363073461572f3a1981A2Db1",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Wrapped Singapore Dollar",
+      "symbol": "WSGD",
+      "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/WSGD.png",
+      "tags": [
+        "stablecoin",
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Aave",
+      "symbol": "AAVE"
+    },
+    {
       "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
       "chainId": 1,
       "decimals": 18,
@@ -142,6 +209,20 @@
       "decimals": 6,
       "name": "Ferrum Network",
       "symbol": "FRM"
+    },
+    {
+      "address": "0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472",
+      "chainId": 1,
+      "decimals": 4,
+      "name": "Franklin",
+      "symbol": "FLy"
+    },
+    {
+      "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Huobi Token",
+      "symbol": "HT"
     },
     {
       "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
@@ -165,12 +246,26 @@
       "symbol": "PHNX"
     },
     {
+      "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "SHIBA INU",
+      "symbol": "SHIB"
+    },
+    {
       "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
       "chainId": 1,
       "decimals": 18,
       "name": "Spice",
       "symbol": "SFI",
       "logoURI": "https://raw.githubusercontent.com/btsecom/token-list/master/assets/SFI.png"
+    },
+    {
+      "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Sushi",
+      "symbol": "SUSHI"
     },
     {
       "address": "0xb8baa0e4287890a5f79863ab62b7f175cecbd433",
@@ -187,6 +282,13 @@
       "symbol": "UNI"
     },
     {
+      "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Wootrade Network",
+      "symbol": "WOO"
+    },
+    {
       "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
       "chainId": 1,
       "decimals": 18,
@@ -196,7 +298,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 1
   }
 }
